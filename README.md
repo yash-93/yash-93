@@ -44,4 +44,4 @@
 [instagram]: https://www.instagram.com/yashdeepbachhas
 [yashwow]: https://www.codechef.com/users/yashwow
 [codeforces]: https://codeforces.com/profile/yashdeepbachhas93
-[P2P App]: https://github.com/yash-93/MERN-Chat-App
+[P2P Web App]: https://github.com/yash-93/MERN-Chat-App
