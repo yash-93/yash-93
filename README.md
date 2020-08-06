@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Yashdeep" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://github.com/yash-93]
-[<img align="left" alt="Yashdeep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/yashdeep-bachhas/]
-[<img align="left" alt="Yashdeep | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/yashdeepbachhas/]
-[<img align="left" alt="Yashdeep | CodeChef" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/codechef_logo.png?_rev=20200525084052" />][https://www.codechef.com/users/yashwow]
-[<img align="left" alt="Yashdeep | CodeForces" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/codeforces_logo.png?_rev=20200525084052" />][https://codeforces.com/profile/yashdeepbachhas93]
+[<img align="left" alt="Yashdeep" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
+[<img align="left" alt="Yashdeep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Yashdeep | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Yashdeep | CodeChef" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/codechef_logo.png?_rev=20200525084052" />][codechef]
+[<img align="left" alt="Yashdeep | CodeForces" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/codeforces_logo.png?_rev=20200525084052" />][codeforces]
 
 <br />
 
@@ -30,7 +30,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
 <br />
@@ -39,3 +39,8 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash-93&show_icons=true&hide_border=true" />
 
+[github]: https://github.com/yash-93
+[linkedin]: https://www.linkedin.com/in/yashdeep-bachhas
+[instagram]: https://www.instagram.com/yashdeepbachhas
+[codechef]: https://www.codechef.com/users/yashwow
+[codeforces]: https://codeforces.com/profile/yashdeepbachhas93
