@@ -1,7 +1,7 @@
-### Hi there, I'm Yashdeep - aka [yashwow][https://www.codechef.com/users/yashwow] 👋
+### Hi there, I'm Yashdeep - aka [yashwow] 👋
 
 ## I'm a Student, Competitive Coder and Full Stack Developer!
-- 🔭 I’m currently working on a [P2P Web App][https://github.com/yash-93/MERN-Chat-App]
+- 🔭 I’m currently working on a [P2P Web App]
 - 🌱 I’m currently learning nothing 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute to Open Source projects
@@ -12,7 +12,7 @@
 [<img align="left" alt="Yashdeep" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 [<img align="left" alt="Yashdeep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yashdeep | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Yashdeep | CodeChef" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/codechef_logo.png?_rev=20200525084052" />][codechef]
+[<img align="left" alt="Yashdeep | CodeChef" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/codechef_logo.png?_rev=20200525084052" />][yashwow]
 [<img align="left" alt="Yashdeep | CodeForces" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/codeforces_logo.png?_rev=20200525084052" />][codeforces]
 
 <br />
@@ -42,5 +42,6 @@
 [github]: https://github.com/yash-93
 [linkedin]: https://www.linkedin.com/in/yashdeep-bachhas
 [instagram]: https://www.instagram.com/yashdeepbachhas
-[codechef]: https://www.codechef.com/users/yashwow
+[yashwow]: https://www.codechef.com/users/yashwow
 [codeforces]: https://codeforces.com/profile/yashdeepbachhas93
+[P2P App]: https://github.com/yash-93/MERN-Chat-App
